@@ -1,0 +1,38 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Alembic compiled
+backend/alembic/versions/*.pyc
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+
+# Runtime data
+backend/uploads/
+backups/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI assistant memory
+.claude/
+
+# Large binary files (thesis document stored separately)
+*.docx
