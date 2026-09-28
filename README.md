@@ -22,6 +22,14 @@ administrators.
 
 ## Screenshots
 
+### Interactive Family Tree
+
+Explore a deterministic multi-generation layout with spouse groups,
+parent-child trunks, custom relationships, photos, zoom controls, and a
+minimap.
+
+![Interactive family tree visualization in Dinastia](docs/images/family-tree.png)
+
 ### Adding a Person
 
 Create a detailed person record with biographical dates, locations, gender,
@@ -35,14 +43,6 @@ Connect existing people with searchable selectors and relationship-specific
 validation.
 
 ![Creating a family relationship in Dinastia](docs/images/add-relationship.png)
-
-### Interactive Family Tree
-
-Explore a deterministic multi-generation layout with spouse groups,
-parent-child trunks, custom relationships, photos, zoom controls, and a
-minimap.
-
-![Interactive family tree visualization in Dinastia](docs/images/family-tree.png)
 
 ## Engineering Highlight: Family-Tree Layout
 
