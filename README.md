@@ -20,6 +20,30 @@ administrators.
 - AI-assisted family narratives through YandexGPT, with a deterministic fallback
 - JWT authentication and role-based access for users, genealogists, and administrators
 
+## Screenshots
+
+### Adding a Person
+
+Create a detailed person record with biographical dates, locations, gender,
+life status, and research notes.
+
+![Adding a person in Dinastia](docs/images/add-person.png)
+
+### Creating a Relationship
+
+Connect existing people with searchable selectors and relationship-specific
+validation.
+
+![Creating a family relationship in Dinastia](docs/images/add-relationship.png)
+
+### Interactive Family Tree
+
+Explore a deterministic multi-generation layout with spouse groups,
+parent-child trunks, custom relationships, photos, zoom controls, and a
+minimap.
+
+![Interactive family tree visualization in Dinastia](docs/images/family-tree.png)
+
 ## Engineering Highlight: Family-Tree Layout
 
 The main engineering challenge is rendering a readable genealogy graph.
